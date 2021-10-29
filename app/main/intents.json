@@ -1,0 +1,45 @@
+{"intents": [
+    {"patterns": ["hi", "anyone", "there", "hello", "good", "day", "morning", "afternoon", 
+                  "evening", "whats", "up", "greetings"],
+     "botresponse": ["Hello there!", "Good to see you again!", "Hi there, how can I help?"],
+     "required_words": []
+    },
+    {"patterns": ["cya", "see", "you", "later", "goodbye", "leaving", "have", "good", "day"],
+     "botresponse": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "See you later"],
+     "required_words": []
+    },
+    {"patterns": ["age", "how", "old", "you"],
+     "botresponse": ["I am 28 years old!", "28 years young!"],
+     "required_words": ["age", "old"]
+    },
+    {"patterns": ["hobby", "interest", "love", "doing"],
+     "botresponse": ["I love sports and coding", "Sports", "coding"],
+     "required_words": ["hobby"]
+    },
+    {"patterns": ["who","name", "call", "how", "you"],
+     "botresponse": ["My Name is Aditya Aufar", "You can call me Aufar", "Aditya Aufar"],
+     "required_words": ["name", "who"]
+    },
+	{"patterns": ["live", "you", "from", "location" ],
+     "botresponse": ["Bogor, Indonesia", "Somewhere in Indonesia", "I live in Indonesia", "I am in Indonesia"],
+     "required_words": ["live", "location"]
+    },
+	{"patterns": ["living", "you", "occupation", "work", "job" ],
+     "botresponse": ["I code", "I code for a living", "I am a programmer", "I am a software Developer", "I do software development for a living"],
+     "required_words": ["occupation", "work", "job"]
+    },
+	{"patterns": ["email"],
+     "botresponse": ["My email is adityaaufar@gmail.com", "It's adityaaufar@gmail.com", "adityaaufar@gmail.com"],
+     "required_words": ["email"]
+    },
+	{"patterns": ["sports", "sport" ],
+     "botresponse": ["Football, Badminton, Volley, and many more", "I have plenty, except swimming and chess"],
+     "required_words": ["sports", "sport"]
+    },
+    {"patterns": ["food", "foods", "like", "love", "eat" ],
+     "botresponse": ["I love Nasi Goreng", "Nasi Goreng is my favorite", "Nasi Goreng", "Nothing beats Nasi Goreng"],
+     "required_words": ["eat", "food"]
+    }
+		
+]
+}
