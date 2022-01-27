@@ -18,4 +18,7 @@ Bot Messages are generated with simple comparison algorithm from the source file
 ## What to Improve
 Algorithm of the Bot can be improved with NLTK or other Machine Learning Algorithm to obtain more accurate response.
 
+![Screenshot 2022-01-22 191815](https://user-images.githubusercontent.com/5984684/151359161-e4fa4982-dcb9-409e-af2f-4ba73345d881.jpg)
+
+
 
